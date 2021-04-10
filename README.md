@@ -1,5 +1,6 @@
-# Ubuntu 20.04 based Docker Image
-[![Docker Build](https://github.com/mreimbold/ubuntu-dind/actions/workflows/ci.yml/badge.svg)](https://github.com/mreimbold/ubuntu-dind/actions/workflows/ci.yml) [![Docker pulls](https://img.shields.io/docker/pulls/mreimbold/ubuntu2004-dind)](https://hub.docker.com/r/mreimbold/ubuntu2004-dind)
+# Ubuntu 20.04 based Docker in Docker Image
+[![Build](https://github.com/mreimbold/ubuntu-dind/actions/workflows/ci.yml/badge.svg)](https://github.com/mreimbold/ubuntu-dind/actions/workflows/ci.yml) 
+[![Docker pulls](https://img.shields.io/docker/pulls/mreimbold/ubuntu2004-dind)](https://hub.docker.com/r/mreimbold/ubuntu2004-dind)
 
 The main intent for this project is to use this container with Molecule to test Ansible roles that deploy Docker containers.
 
